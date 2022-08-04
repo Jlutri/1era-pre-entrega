@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+header{
+    color: white;
+}
+
+header .navclass {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right; }
+    
+    header .navclass .divclass:hover {
+      background-color: chocolate;
+      border-radius: 15%; }
